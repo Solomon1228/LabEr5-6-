@@ -58,7 +58,7 @@ class MainClass
     {
       for(int j =0; j <= n; j++)
       {
-        Console.Write($"{arr[i,j],3}");
+        Console.Write($"{arr[i,j],4}");
       }
       Console.WriteLine();
     }
